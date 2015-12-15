@@ -1,0 +1,1 @@
+This is an adapter board (WIP) for bridging modern RX/TX/GND -serial to the differential layout used by vintage Fanuc CNC machines' remote buffer interfaces.
